@@ -1,3 +1,9 @@
+# 0.6.3 (Maxwell)
+
+2018-1-26
+
+- Updated rest-client to 2.0
+
 # 0.6.2
 
 Release date: 2015-09-10
