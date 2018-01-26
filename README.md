@@ -1,4 +1,7 @@
-# Refile
+# Refile (Maxwell Fork)
+
+### Reason for Forking
+While creating our Encompass integration, we ran into dependency issues centered around `rest-client`. They had breaking changes, and `refile` uses an outdated version. The goal of this fork is to simple update the `rest-client`.
 
 [![Gem Version](https://badge.fury.io/rb/refile.svg)](http://badge.fury.io/rb/refile)
 [![Build Status](https://travis-ci.org/refile/refile.svg?branch=master)](https://travis-ci.org/refile/refile)
